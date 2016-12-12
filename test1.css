@@ -208,10 +208,10 @@ a:focus {outline:thin dotted;}
 a:link {transition:color 0.4s;outline:none;text-decoration:none;}
 a:link:hover {}
 a:hover {text-decoration:underline;outline:none;}
-a:visited {color:#0077B6;text-decoration:none;outline:none;}
+a:visited {color:#dfe6f5;text-decoration:none;outline:none;}
 ::selection{background:rgba(0, 0, 0, 0.1);color:#999;}
 #outer-wrapper{margin: 0px auto;padding: 0px;}
-#main-wrap{width: 700px;float: left;}
+#main-wrap{width: 650px;float: left;}
 #sidebar-wrap{width:290px;height:100%;float:right;margin:0px 5px;}
 #content-wrapper{width:1050px;height:100%;padding: 10px;margin:auto;background:#0a0a0a;border:1px solid #323232;}
 h1, h2, h3, h4, h5{font-weight:700;}
