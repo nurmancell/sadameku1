@@ -289,7 +289,7 @@ input[type=&quot;checkbox&quot;], input[type=&quot;radio&quot;], input[type=&quo
 #error-text a.back {background:#555;color:#fff;padding:10px 20px;font-size:20px;border:double #ddd;-webkit-transform:scale(1);-moz-transform:scale(1);transform:scale(1);transition:all 0.5s ease-out;}
 #error-text a.back:hover {background:#fff;color:#666;border:double #ff2555;}
 #error-text a.back:active {-webkit-transform:scale(0.9);-moz-transform:scale(0.9);transform:scale(0.9);background:#121212;color:#fff;border:double #fff;}
-.post{float;left;width:160px;text-align:center;font-size:10px;margin:1px -1px;margin-top:-20px;}
+.post{float:left;width:160px;text-align:center;font-size:10px;margin:1px -1px;margin-top:-20px;}
 .post-title {font-size: 15px;font-family:&#39;Yantramanav&#39;, sans-serif;font-weight: bold;margin: 0 0 0px;}
 .post-title a {font-family:&#39;Yantramanav&#39;, sans-serif;;color: #dfe6f5;text-decoration: none;}
 .post-title a:hover {color: #dfe6f5;text-decoration: none;}
