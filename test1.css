@@ -20,7 +20,7 @@ blockquote:before,blockquote:after,q:before,q:after{content:&quot;&quot;;content
 .label-count{color:#E4E4E4;}
 .profile-name-link.g-profile{background:no-repeat;padding-left:20px;}
 .profile-img{margin:5px;float:left;}
-.sidebar h2 {margin: 0px 20px;color: #939393;border-bottom: 2px solid #ddd;font-family: &#39;Roboto&#39;;text-transform: uppercase;padding: 13px 10px 12px 8px;font-weight: 600;line-height: 7px;font-size: 11.5px;width: 245px;margin-bottom: 0px;}
+.sidebar h2 {margin: 0px 20px;color: #dfe6f5;border-bottom: 2px solid #ddd;font-family: &#39;Roboto&#39;;text-transform: uppercase;padding: 13px 10px 12px 8px;font-weight: 600;line-height: 7px;font-size: 11.5px;width: 245px;margin-bottom: 0px;}
 .sidebar .widget-content {  margin: 0 20px 1px;padding: 13px 13px 5px 11px;width: 245px;margin-bottom: 5px;}
 .label-size-1,.label-size-2,.label-size-3,.label-size-4,.label-size-5 {
 font-size:100%;opacity:1}
@@ -109,7 +109,7 @@ display:none
 #rslides-container{margin-bottom:15px;}
 #hits{margin:0;padding:10px 0px;white-space:nowrap;text-overflow:ellipsis;overflow:hidden;}
 #hits li{float:left;margin:0;line-height:33px;margin-right:5px;}
-#hits a{color: #B8B8B8;padding-right: 7px;margin-left: 5px;line-height: 3px;padding-left: 2px;font-size: 11px;font-family: &#39;Yantramanav&#39;, sans-serif;}
+#hits a{color: #dfe6f5;padding-right: 7px;margin-left: 5px;line-height: 3px;padding-left: 2px;font-size: 11px;font-family: &#39;Yantramanav&#39;, sans-serif;}
 #hits a:hover{text-decoration: underline;}.rslides img:hover{-ms-transform:scale(1.1) rotate(3deg);transform:scale(1.1) rotate(3deg);-webkit-transform:scale(1.1) rotate(3deg);-o-transform:scale(1.1) rotate(3deg);-moz-transform:scale(1.1) rotate(3deg);opacity:.7;filter:alpha(opacity=70);}
 #hits a:last-child{border:0;}
 #animeterhits{margin: 0px auto;background:#161616;max-height: 30px;margin-bottom: 8px;font-size:13px;font-style;initial;font-family:titillium;}
@@ -158,14 +158,14 @@ h3.dl-title{background: #151414;margin: 0 0 1px;padding: 10px 5px 35px 5px;color
 .postbawah h3 {border-bottom: 3px solid #5bc0de;font-size: 13px;color: #dfe6f5;padding: 4px 0;margin-bottom: 5px;font-weight: bold;}
 .featured2 h3 {font-size: 16px;font-family: &#39;Arial&#39;, Open sans, sans-serif;margin: 0;overflow: hidden;font-weight: 300;color: #000;textoverflow: ellipsis;white-space: nowrap;margin-bottom: 3px;}
 .iklanrel-kiri {margin-right: 5px;padding-right: 5px;width: 300px;height: 260px;border: 1px solid #EEE;float: left;background: rgba(255,255,255,.7);}
-.iklanrel-kiri h2 {color: #666;text-align: center;margin-top: 130px;font-family: &#39;Helvetica&#39;,Arial,sans-serif;}
+.iklanrel-kiri h2 {color: #dfe6f5;text-align: center;margin-top: 130px;font-family: &#39;Helvetica&#39;,Arial,sans-serif;}
 .iklanfoot-kanan {margin-right: -5px;padding-right: 5px;width: 300px;height: 235px;border: 1px solid #444;float: right;background: #333;}
-.iklanfoot-kanan h2 {color: #888;text-align: center;margin-top: 100px;font-family: &#39;Helvetica&#39;,Arial,sans-serif;}
+.iklanfoot-kanan h2 {color: #dfe6f5;text-align: center;margin-top: 100px;font-family: &#39;Helvetica&#39;,Arial,sans-serif;}
 #albri {width:112%;float:right;height:auto;}
 #albri b {display: none;background: transparent;padding: 8px 11px;color: #333;font-weight: bold;}
 #albri ul {padding: 0px 0 0 50px;}
 #albri ul li {background: none repeat scroll 0% 0% #F2F4F8;border-left: 3px solid #BCC2CA;border-right: 3px solid #CCD4E3;margin: 0px 0px 1px 1px;padding: 3px;list-style-type: none;transition: all 0.3s ease-in-out 0s;}
-#albri ul li a {color: #333;margin-left: 6px;}
+#albri ul li a {color: #dfe6f5;margin-left: 6px;}
 #albri ul li a:hover {text-decoration: none;}
 #albri ul li:hover {background: #E2E7F0;}
 #albri1 b{display:block;background:transparent;color:#9b9b9b;}
@@ -209,7 +209,7 @@ a:link {transition:color 0.4s;outline:none;text-decoration:none;}
 a:link:hover {}
 a:hover {text-decoration:underline;outline:none;}
 a:visited {color:#dfe6f5;text-decoration:none;outline:none;}
-::selection{background:rgba(0, 0, 0, 0.1);color:#999;}
+::selection{background:rgba(0, 0, 0, 0.1);color:#dfe6f5;}
 #outer-wrapper{margin: 0px auto;padding: 0px;}
 #main-wrap{width: 650px;float: left;}
 #sidebar-wrap{width:290px;height:100%;float:right;margin:0px 5px;}
