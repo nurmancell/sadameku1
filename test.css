@@ -97,7 +97,7 @@ background:#222;color:#fff!important;transition:all .3s ease-out;}
 visibility:hidden;
 display:none
 }
-#blog-pager{text-align:center;margin:15px auto;;}
+#blog-pager{clear:both;text-align:center;margin:15px auto;;}
 #pager-prev{float:left;;}
 #pager-next{center:right;;}
 .showpagePoint,.showpageNum,.showpage{float: left;padding: 5px 10px;border: 1px solid #ddd;margin-right: 3px;font: 13px &#39;Yantramanav&#39;, sans-serif;border-radius: 0px;}
@@ -177,7 +177,7 @@ h3.dl-title{background: #151414;margin: 0 0 1px;padding: 10px 5px 35px 5px;color
 .breadcrumbs span:nth-child(1){padding:0 5px;margin-left:0px;display:block;float:left;}
 .bottomnav{padding:2px;overflow:hidden;}
 .adsbig{float:left;background:#F7F7F7;padding:3px;border:1px solid #D5D5D5;}
-.post {margin: 0 17px 10px 10px;padding: 0 10px 10px;line-height: 25px;}
+.post {float:left;width;160px;text-align:center;font-size:10px;margin:1px -1px;margin-top:-20px;}
 h1.post-title {width:715px;margin: 1px;font-size: 150%;border-bottom: 2px solid #999;background: rgba(0,0,0,0.6);color:#dfe6f5;background-color:rgba(0,0,0,0.6);padding: 5px;font-family: &#39;Yantramanav&#39;, sans-serif;border-radius: 0 0px 0px 0;}  
 #comments {margin: 10px;padding-bottom:5px;border-bottom:2px solid #ddd;}
 #comment-editor {width: 100%;}
@@ -212,9 +212,9 @@ a:hover {text-decoration:underline;outline:none;}
 a:visited {color:#0077B6;text-decoration:none;outline:none;}
 ::selection{background:rgba(0, 0, 0, 0.1);color:#999;}
 #outer-wrapper{margin: 0px auto;padding: 0px;}
-#main-wrap{width: 700px;float: left;}
+#main-wrap{margin-right:8px;width: 650px;float: left;}
 #sidebar-wrap{width:290px;height:100%;float:right;margin:0px 5px;}
-#content-wrapper{width:1050px;height:100%;padding: 10px;margin:auto;background:#0a0a0a;border:1px solid #323232;}
+#content-wrapper{position:relative;overflow:hidden;width:968px;height:100%;padding: 10px;margin:10px auto;background:#0a0a0a;border:1px solid #323232;}
 h1, h2, h3, h4, h5{font-weight:700;}
 h1{font-size:0em;margin:0;}
 h2{font-size:1.5em;margin:0.83em 0;}
