@@ -222,7 +222,8 @@ h4{font-size:1em;margin:1.33em 0;}
 h5{font-size:0.83em;margin:1.67em 0;}
 h6{font-size:0.75em;margin:2.33em 0;}
 .post-body {width:727px;font-size: 14px;color: #dfe6f5;font-family: &#39;Yantramanav&#39;, sans-serif;}
-.post-body img {display: none;max-width: 80%;height: auto;margin: 0px auto;border: 1px solid #8B8787;box-shadow: 3px 2px 3px rgba(0, 0, 0, 0.64);}
+.post-body img {display: block;max-width: 80%;height: auto;margin: 0px auto;border: 1px solid #8B8787;box-shadow: 3px 2px 3px rgba(0, 0, 0, 0.64);}
+.thumb{display:none;}
 .archivedate .posts li{margin-bottom:10px;}
 .archivedate .posts{margin-left:10px;}
 .post-count{float:right;margin-top:-22px;background:#23B0E8;padding:2px 4px;color:#fff;font-size:9px;}
