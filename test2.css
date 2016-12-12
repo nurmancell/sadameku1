@@ -97,7 +97,7 @@ background:#222;color:#fff!important;transition:all .3s ease-out;}
 visibility:hidden;
 display:none
 }
-#blog-pager{text-align:center;margin:15px auto;;}
+#blog-pager{clear:both;text-align:center;margin:15px auto;;}
 #pager-prev{float:left;;}
 #pager-next{center:right;;}
 .showpagePoint,.showpageNum,.showpage{float: left;padding: 5px 10px;border: 1px solid #ddd;margin-right: 3px;font: 13px &#39;Yantramanav&#39;, sans-serif;border-radius: 0px;}
